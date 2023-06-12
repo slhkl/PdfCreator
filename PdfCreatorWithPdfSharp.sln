@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCreatorWithPdfSharp", "PdfCreatorWithPdfSharp\PdfCreatorWithPdfSharp.csproj", "{1B2907F8-2622-4792-BB16-9CC3B6FC4C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCreatorWithPdfSharp.Utils", "PdfCreatorWithPdfSharp.Utils\PdfCreatorWithPdfSharp.Utils.csproj", "{756E34C5-7D3A-4CBC-A07A-0A9477813D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2907F8-2622-4792-BB16-9CC3B6FC4C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2907F8-2622-4792-BB16-9CC3B6FC4C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2907F8-2622-4792-BB16-9CC3B6FC4C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2907F8-2622-4792-BB16-9CC3B6FC4C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756E34C5-7D3A-4CBC-A07A-0A9477813D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756E34C5-7D3A-4CBC-A07A-0A9477813D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756E34C5-7D3A-4CBC-A07A-0A9477813D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756E34C5-7D3A-4CBC-A07A-0A9477813D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C644B140-E0CD-4A5E-A5EB-1AABD72AF7DF}
+	EndGlobalSection
+EndGlobal
