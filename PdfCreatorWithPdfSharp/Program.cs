@@ -1,5 +1,5 @@
 ﻿using PdfCreatorWithPdfSharp.Utils;
 
-string text = "first page";
+string filename = "CreatedViaPdfSharpCore";
 
-text.CreatePdf();
+filename.CreatePdf("Hi","I'm Salih", "This is my sample.");
